@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://github.com/flatiron-school/technical-coach-resources/blob/master/lesson-plans/rails/routing-and-route-helpers.md
